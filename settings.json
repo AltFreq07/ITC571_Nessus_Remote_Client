@@ -1,0 +1,7 @@
+{
+  "wmi_status": "stop",
+  "remote_registry_status": "start",
+  "remote_registry_startup_type": "auto",
+  "file_sharing_status": "yes",
+  "local_account_token_filter_policy": "1"
+}
